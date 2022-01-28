@@ -3,10 +3,5 @@ orbs:
   node: circleci/node@3.0.0
 workflows:
   node-tests:
-<<<<<<< HEAD
     jobs:
       - node/test
-=======
-      jobs:
-        - node/test
->>>>>>> 9430918b54a862d1567b2a7d9bfaecc848859f83
